@@ -7,8 +7,6 @@ A code kata for building (and testing) components.
 
 ------
 
-](/Users/kylesotello/Documents/personal/vending-machine-component-kata/vendingmachine.jpg)
-
 1. If the money given to the machine is less than the item cost return "Not enough money!"
 
 2. If the quantity is 0 for an item return "<Item Name>: Out of stock!". Where **Item Name** is the name of the item selected.
