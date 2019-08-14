@@ -8,7 +8,6 @@
     "@typescript-eslint/eslint-plugin": "1.13.0",
     "@typescript-eslint/parser": "1.13.0",
     "babel-eslint": "10.0.2",
-    "babel-jest": "^24.8.0",
     "babel-loader": "8.0.6",
     "babel-plugin-named-asset-import": "^0.3.3",
     "babel-preset-react-app": "^9.0.1",
@@ -90,7 +89,9 @@
     "setupFiles": [
       "react-app-polyfill/jsdom"
     ],
-    "setupFilesAfterEnv": ["<rootDir>src/setupTests.js"],
+    "setupFilesAfterEnv": [
+      "<rootDir>src/setupTests.js"
+    ],
     "testMatch": [
       "<rootDir>/src/**/__tests__/**/*.{js,jsx,ts,tsx}",
       "<rootDir>/src/**/*.{spec,test}.{js,jsx,ts,tsx}"
@@ -134,6 +135,7 @@
   },
   "devDependencies": {
     "enzyme": "^3.10.0",
+    "babel-jest": "^24.8.0",
     "enzyme-adapter-react-16": "^1.14.0"
   }
 }
