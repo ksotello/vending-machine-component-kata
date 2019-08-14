@@ -3,7 +3,7 @@ A code kata for building (and testing) components.
 
 ------
 
-![vendingmachine](/Users/kylesotello/Documents/personal/vending-machine-component-kata/vendingmachine.jpg)
+![vending machines](vendingmachine.jpg)
 
 ------
 
