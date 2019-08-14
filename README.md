@@ -7,13 +7,15 @@ A code kata for building (and testing) components.
 
 ------
 
-# The Rules Of TDD
+## The Rules Of TDD
 
 1. You must write a failing test before you write any production code.
 2. You must not write more of a test than is sufficient to fail, or fail to compile.
 3. You must not write more production code than is sufficient to make the currently failing test pass.
 
 ------
+
+## Acceptance Criteria
 
 1. If the money given to the machine is less than the item cost return "Not enough money!"
 
