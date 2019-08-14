@@ -2,9 +2,7 @@
 A code kata for building (and testing) components.
 
 ------
-
 ![vending machines](vendingmachine.jpg)
-
 ------
 
 1. If the money given to the machine is less than the item cost return "Not enough money!"
