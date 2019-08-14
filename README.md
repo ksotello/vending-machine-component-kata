@@ -1,4 +1,5 @@
-# vending-machine-component-kata
+# Vending Machine Component Kata
+
 A code kata for building (and testing) components.
 
 ------
